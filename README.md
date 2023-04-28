@@ -1,5 +1,5 @@
 # music-player
-A simple music-player object
+A simple music-player object for website
 
 # Languages
 - HTML
